@@ -1,5 +1,5 @@
 // CALCULO DE RESISTENCIAS EN PARALELO 25/09/2020
-///// Luis Fernando Lima Torres ///// 4°C //// MAAU////
+///// Luis Fernando Lima Torres ///// 4Â°C //// MAAU////
 #include<stdio.h>
 
 int main()
@@ -31,7 +31,7 @@ int main()
     /* El voltaje va hacer el mismo para todas las resistencias en paralelo
 
        ----- INFORMACION----
-           Si dos o más componentes están conectados en paralelo, tienen
+           Si dos o mÃ¡s componentes estÃ¡n conectados en paralelo, tienen
            la misma diferencia de potencial (voltaje) en sus extremos. */
 
       printf( "\nEl voltaje de las Resistencias R1, R2 y R3 es: %fVolts", Vs);
