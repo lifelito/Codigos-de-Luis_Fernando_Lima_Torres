@@ -1,7 +1,7 @@
     //\\// CALCULO DE RESISTENCIAS PARA LOS LED'S 26/09/2020 \\//\\
-          /*Universidad  Tecnológica de Tlaxcala*/
+          /*Universidad  TecnolÃ³gica de Tlaxcala*/
 
-    ///// Luis Fernando Lima Torres ///// 4°C //// MAAU ////
+    ///// Luis Fernando Lima Torres ///// 4Â°C //// MAAU ////
 
 #include<stdio.h>
 
